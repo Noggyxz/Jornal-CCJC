@@ -50,6 +50,11 @@ h3 {
     margin: 15px 30px 10px;
 }
 
+.titulo {
+    text-align: center;
+    color: #ffffff;
+}
+
 article {
     margin: 5px 35px;
     font-family: monospace;
