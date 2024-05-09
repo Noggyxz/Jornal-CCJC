@@ -95,7 +95,18 @@ footer {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-    margin-bottom: 100px; /* Adicionei uma margem inferior maior */
+    margin-bottom: 10px;
+}
+
+.noticia-editorial {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: #808080;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 100px;
 }
 
 .pnoticia {
