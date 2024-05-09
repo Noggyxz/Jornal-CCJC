@@ -1,0 +1,106 @@
+body {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+h2 {
+  text-align: center;
+}
+
+nav {
+    background-color: #eee;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+section {
+    margin: 20px;
+}
+
+h3 {
+    margin: 15px 30px 10px;
+}
+
+article {
+    margin: 5px 35px;
+    font-family: monospace;
+    color: #ffffff
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.box {
+    background-color: #222222;
+    border-radius: 20px;
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 35px;
+    text-align: justify;
+}
+
+.noticia-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.noticia-link:hover {
+    text-decoration: underline;
+}
+
+.noticia-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 100px; /* Adicionei uma margem inferior maior */
+}
+
+.pnoticia {
+    margin-top: 15px;
+    color: #ffffff;
+}
+
+.h1noticia {
+    text-align: center;
+    margin: 17px;
+}
