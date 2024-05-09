@@ -101,7 +101,7 @@ footer {
 .noticia-editorial {
     max-width: 800px;
     margin: 0 auto;
-    text-align: justify;
+    text-align: center;
     background-color: #808080;
     padding: 20px;
     border-radius: 10px;
